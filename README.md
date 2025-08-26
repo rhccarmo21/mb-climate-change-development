@@ -122,7 +122,7 @@ jupyter notebook notebooks/analysis_main.ipynb
 MIT License
 
 ## 👥 Autor
-Ricardo Carmo - [rhccarmo21](https://github.com/rhccarmo21)
+Ricardo da Cunha - [rhccarmo21](https://github.com/rhccarmo21)
 
 ---
 
